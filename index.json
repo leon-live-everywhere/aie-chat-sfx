@@ -1,0 +1,344 @@
+{
+ "ding_cute": {
+  "file": "ding_cute.mp3",
+  "用途": "可爱提示",
+  "秒": 1.59,
+  "trim": 0.8,
+  "gain_db": 0,
+  "原档名": "Ding,可爱提示音.mp3",
+  "中文名": "Ding_可爱提示音"
+ },
+ "tom_drum": {
+  "file": "tom_drum.mp3",
+  "用途": "节奏重拍",
+  "秒": 3.06,
+  "trim": 1.0,
+  "gain_db": 0,
+  "原档名": "Tom鼓.mp3",
+  "中文名": "Tom鼓"
+ },
+ "magic_reveal": {
+  "file": "magic_reveal.mp3",
+  "用途": "揭晓、变身",
+  "秒": 2.12,
+  "trim": 1.5,
+  "gain_db": 0,
+  "原档名": "magic reveal.mp3",
+  "中文名": "magic_reveal"
+ },
+ "riser": {
+  "file": "riser.mp3",
+  "用途": "数字往上滚之前的蓄力",
+  "秒": 2.07,
+  "trim": 0.8,
+  "gain_db": 0,
+  "原档名": "riser-metallic-sound-effect-shorts.mp3",
+  "中文名": "riser"
+ },
+ "whoosh_transition": {
+  "file": "whoosh_transition.mp3",
+  "用途": "换版面的转场",
+  "秒": 3.16,
+  "trim": 0.8,
+  "gain_db": 0,
+  "原档名": "“呼”的转场音效.mp3",
+  "中文名": "呼_转场"
+ },
+ "drum_hit": {
+  "file": "drum_hit.mp3",
+  "用途": "印章、大字重落（slam，默认）",
+  "秒": 2.8,
+  "trim": 1.5,
+  "gain_db": 0,
+  "原档名": "一声脆响的鼓声.mp3",
+  "中文名": "一声脆响的鼓声"
+ },
+ "water_drop": {
+  "file": "water_drop.mp3",
+  "用途": "轻点、一滴",
+  "秒": 1.07,
+  "trim": 0.8,
+  "gain_db": 0,
+  "原档名": "一滴水滴声.mp3",
+  "中文名": "水滴"
+ },
+ "fairy_dust": {
+  "file": "fairy_dust.mp3",
+  "用途": "新想法、以前 vs 现在",
+  "秒": 2.8,
+  "trim": 1.5,
+  "gain_db": 0,
+  "原档名": "仙尘音效.mp3",
+  "中文名": "仙尘"
+ },
+ "tech_click": {
+  "file": "tech_click.mp3",
+  "用途": "科技点击",
+  "秒": 0.65,
+  "trim": 0.6,
+  "gain_db": 0,
+  "原档名": "单击科技.mp3",
+  "中文名": "单击科技"
+ },
+ "follow_like_ding": {
+  "file": "follow_like_ding.mp3",
+  "用途": "关注 / 点赞 CTA",
+  "秒": 2.12,
+  "trim": 1.5,
+  "gain_db": 0,
+  "原档名": "叮 关注 点赞.mp3",
+  "中文名": "叮_关注点赞"
+ },
+ "ding": {
+  "file": "ding.mp3",
+  "用途": "打勾、重点出现（默认）",
+  "秒": 0.84,
+  "trim": 0.8,
+  "gain_db": 0,
+  "原档名": "叮.mp3",
+  "中文名": "叮"
+ },
+ "ding_ding": {
+  "file": "ding_ding.mp3",
+  "用途": "答对、揭晓",
+  "秒": 1.23,
+  "trim": 1.0,
+  "gain_db": 0,
+  "原档名": "叮叮.mp3",
+  "中文名": "叮叮"
+ },
+ "ding_ding_ding": {
+  "file": "ding_ding_ding.mp3",
+  "用途": "清单全部完成",
+  "秒": 1.31,
+  "trim": 1.3,
+  "gain_db": 0,
+  "原档名": "叮叮叮.mp3",
+  "中文名": "叮叮叮"
+ },
+ "cash_register": {
+  "file": "cash_register.mp3",
+  "用途": "收银、成交",
+  "秒": 2.3,
+  "trim": 1.5,
+  "gain_db": 0,
+  "原档名": "叮，收银机提示音.mp3",
+  "中文名": "收银机_叮"
+ },
+ "cute_swish_surprise": {
+  "file": "cute_swish_surprise.mp3",
+  "用途": "轻快转场、惊喜出现",
+  "秒": 0.63,
+  "trim": 0.6,
+  "gain_db": 0,
+  "原档名": "可爱咻-转场短音效-惊喜.mp3",
+  "中文名": "可爱咻_转场惊喜"
+ },
+ "swoosh": {
+  "file": "swoosh.mp3",
+  "用途": "滑入、转场（slide，默认）",
+  "秒": 0.52,
+  "trim": 0.5,
+  "gain_db": 0,
+  "原档名": "唰.mp3",
+  "中文名": "唰"
+ },
+ "pop": {
+  "file": "pop.mp3",
+  "用途": "卡片/元件弹出（pop，默认）",
+  "秒": 0.39,
+  "trim": 0.4,
+  "gain_db": 0,
+  "原档名": "啵 1.mp3",
+  "中文名": "啵"
+ },
+ "microwave_ding": {
+  "file": "microwave_ding.mp3",
+  "用途": "完成、搞定",
+  "秒": 1.31,
+  "trim": 1.0,
+  "gain_db": 0,
+  "原档名": "微波炉 叮.mp3",
+  "中文名": "微波炉_叮"
+ },
+ "idea": {
+  "file": "idea.mp3",
+  "用途": "灵光一闪",
+  "秒": 1.46,
+  "trim": 1.4,
+  "gain_db": 0,
+  "原档名": "想到好点子.mp3",
+  "中文名": "想到好点子"
+ },
+ "typing_1": {
+  "file": "typing_1.mp3",
+  "用途": "打字、聊天框（长）",
+  "秒": 1.67,
+  "trim": 0.8,
+  "gain_db": -8,
+  "原档名": "打字声 1.mp3",
+  "中文名": "打字声1"
+ },
+ "typing_2": {
+  "file": "typing_2.mp3",
+  "用途": "打字、聊天框（默认）",
+  "秒": 1.28,
+  "trim": 0.6,
+  "gain_db": -8,
+  "原档名": "打字声 2.mp3",
+  "中文名": "打字声2"
+ },
+ "sword_draw": {
+  "file": "sword_draw.mp3",
+  "用途": "出招、亮出重点",
+  "秒": 1.44,
+  "trim": 1.4,
+  "gain_db": 0,
+  "原档名": "拔剑  .mp3",
+  "中文名": "拔剑"
+ },
+ "correct": {
+  "file": "correct.mp3",
+  "用途": "正确、简单",
+  "秒": 2.04,
+  "trim": 1.0,
+  "gain_db": 0,
+  "原档名": "正确.mp3",
+  "中文名": "正确"
+ },
+ "beep_notice": {
+  "file": "beep_notice.mp3",
+  "用途": "轻提示",
+  "秒": 1.04,
+  "trim": 0.6,
+  "gain_db": 0,
+  "原档名": "滴，提示音.mp3",
+  "中文名": "滴_提示音"
+ },
+ "activate_appear": {
+  "file": "activate_appear.mp3",
+  "用途": "元件激活出现",
+  "秒": 0.91,
+  "trim": 0.9,
+  "gain_db": 0,
+  "原档名": "激活出现提示音.mp3",
+  "中文名": "激活出现提示音"
+ },
+ "tech_ui_click": {
+  "file": "tech_ui_click.mp3",
+  "用途": "科技 UI 点击",
+  "秒": 0.44,
+  "trim": 0.44,
+  "gain_db": 0,
+  "原档名": "科技点击系统音.mp3",
+  "中文名": "科技点击系统音"
+ },
+ "tech_ui_click_2": {
+  "file": "tech_ui_click_2.mp3",
+  "用途": "科技 UI 点击（长）",
+  "秒": 1.2,
+  "trim": 1.0,
+  "gain_db": 0,
+  "原档名": "科技点击系统音2.mp3",
+  "中文名": "科技点击系统音2"
+ },
+ "tech_wave": {
+  "file": "tech_wave.mp3",
+  "用途": "AI / 科技感出现",
+  "秒": 0.63,
+  "trim": 0.63,
+  "gain_db": 0,
+  "原档名": "科技电波音.mp3",
+  "中文名": "科技电波音"
+ },
+ "camera_shutter": {
+  "file": "camera_shutter.mp3",
+  "用途": "截图、拍照、定格",
+  "秒": 0.73,
+  "trim": 0.7,
+  "gain_db": 0,
+  "原档名": "综艺 照相咔嚓.mp3",
+  "中文名": "综艺_照相咔嚓"
+ },
+ "variety_clang": {
+  "file": "variety_clang.mp3",
+  "用途": "综艺式重落、打脸",
+  "秒": 0.84,
+  "trim": 0.8,
+  "gain_db": 0,
+  "原档名": "综艺哐当.mp3",
+  "中文名": "综艺哐当"
+ },
+ "variety_intro_boom": {
+  "file": "variety_intro_boom.mp3",
+  "用途": "开头 hook 出现",
+  "秒": 5.67,
+  "trim": 1.5,
+  "gain_db": 0,
+  "原档名": "综艺开头-咚 （空旷）.mp3",
+  "中文名": "综艺开头_咚"
+ },
+ "variety_start_system": {
+  "file": "variety_start_system.mp3",
+  "用途": "开场系统提示",
+  "秒": 0.6,
+  "trim": 0.6,
+  "gain_db": 0,
+  "原档名": "综艺开始 系统音.mp3",
+  "中文名": "综艺开始_系统音"
+ },
+ "variety_tada": {
+  "file": "variety_tada.mp3",
+  "用途": "宣布、揭晓",
+  "秒": 1.31,
+  "trim": 1.3,
+  "gain_db": 0,
+  "原档名": "综艺当当当当.mp3",
+  "中文名": "综艺当当当当"
+ },
+ "variety_tug": {
+  "file": "variety_tug.mp3",
+  "用途": "拉扯、反转",
+  "秒": 0.55,
+  "trim": 0.55,
+  "gain_db": 0,
+  "原档名": "综艺拉扯.mp3",
+  "中文名": "综艺拉扯"
+ },
+ "checkout": {
+  "file": "checkout.mp3",
+  "用途": "结账",
+  "秒": 3.76,
+  "trim": 1.5,
+  "gain_db": 0,
+  "原档名": "超市电子钱柜 结账.mp3",
+  "中文名": "超市钱柜_结账"
+ },
+ "money_received": {
+  "file": "money_received.mp3",
+  "用途": "钱到账、付款通知",
+  "秒": 1.7,
+  "trim": 1.5,
+  "gain_db": 0,
+  "原档名": "金钱到账叮咚声.mp3",
+  "中文名": "金钱到账叮咚"
+ },
+ "impact_transition": {
+  "file": "impact_transition.mp3",
+  "用途": "大转场（少用）",
+  "秒": 4.41,
+  "trim": 1.2,
+  "gain_db": -3,
+  "原档名": "震撼转场音效.mp3",
+  "中文名": "震撼转场"
+ },
+ "mouse_click": {
+  "file": "mouse_click.mp3",
+  "用途": "点击按钮",
+  "秒": 0.37,
+  "trim": 0.37,
+  "gain_db": 0,
+  "原档名": "鼠标点击.mp3",
+  "中文名": "鼠标点击"
+ }
+}
